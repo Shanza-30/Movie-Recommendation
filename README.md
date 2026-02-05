@@ -1,4 +1,4 @@
-**Movie Recommendation (Content-Based Filtering)**
+## **Movie Recommendation (Content-Based Filtering)**
 
 This project builds a Content-Based Movie Recommender System that suggests similar movies based on movie metadata such as overview, genres, cast, and keywords.
 
