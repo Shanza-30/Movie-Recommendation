@@ -1,6 +1,6 @@
 ## **Movie Recommendation (Content-Based Filtering)**
 
-This project builds a Content-Based Movie Recommender System that suggests similar movies based on movie metadata such as overview, genres, cast, and keywords.
+This project task 4 syntecxhub builds a Content-Based Movie Recommender System that suggests similar movies based on movie metadata such as overview, genres, cast, and keywords.
 
 The system uses Natural Language Processing (TF-IDF) and Cosine Similarity to find related movies.
 
